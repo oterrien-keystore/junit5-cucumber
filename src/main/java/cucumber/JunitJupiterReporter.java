@@ -1,4 +1,4 @@
-package junit5.cucumber;
+package cucumber;
 
 import gherkin.formatter.Formatter;
 import gherkin.formatter.Reporter;

@@ -1,4 +1,4 @@
-package junit5.cucumber;
+package cucumber;
 
 import cucumber.runtime.Runtime;
 import cucumber.runtime.RuntimeOptions;
